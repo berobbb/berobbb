@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT AND C++**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT, C++ ,REACT JS,MongoDB and Node js**
 
 - 📫 How to reach me **shashwatdimri5@gmail.com**
 
