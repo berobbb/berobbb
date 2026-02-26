@@ -2,7 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT, C++ ,REACT JS,MongoDB and Node js**
+- 💬 Ask me about AGENTIC AI
+- Fast API,Numpy,Pandas,Matplotlib and Langcgain
+- MERN STACK WEB DEVELOPER
 
 - 📫 How to reach me **shashwatdimri5@gmail.com**
 
